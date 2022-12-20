@@ -1,0 +1,275 @@
+.main{
+  background-color: #f4a7bbba;
+  text-align: center;
+  
+  margin: auto;
+}
+.carousel-item{
+  height: 100%;
+  width: 100%;
+  background: no-repeat center center scroll;
+  background-size:cover;
+  background: cover;
+  }
+  .carousel-caption{
+      margin-bottom: 220px;
+      background-color: #000000;
+      color: #f4a7bb;
+      border-radius: 135px 135px 135px 135px;
+      border-style: solid;
+      border-width: 5px;
+      border-color: #f4a7bb;
+      opacity: 0.5;
+  }
+  .carousel-caption:hover{opacity: 1.0;}
+  .carousel-caption h5{
+      font-size: 45px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-top: 25px;
+      font-family: merienda;
+  }
+  .carousel-caption p{
+      width: 60% ;
+      margin: auto;
+      font-size: 18px;
+      line-height: 1.9;
+      font-family: poppins;
+  }
+  .carousel-caption a{
+      text-transform: uppercase;
+      background: #000000;
+      padding: 10px 30px;
+      display: inline-block;
+      color: #f4a7bb;
+      margin-top: 15px;
+
+  }
+  .carousel-caption a:hover{background-color: #f4a7bb;color: rgb(0, 0, 0);border-radius: 135px 135px 135px 135px;}
+  
+  .navbar-nav a{
+      font-family: poppins;
+      font-size: 18px;
+      text-transform: uppercase;
+      font-weight: bold;
+  }
+  .navbar-light .navbar-brand{
+      color: #fff;
+      font-size: 18px;
+      text-transform: uppercase;
+      font-weight: bold;
+      letter-spacing: 2px;
+  }
+  .navbar-light .navbar-nav .active > .navbar-link, .navbar-light .navbar-nav .navbar-link.active, 
+  .navbar-light .navbar-nav .navbar-link.show, .navbar-light .navbar-nav.show > .navbar-link{
+      color: #fff;
+  }
+  .navbar-light .navbar-nav .navbar-link{
+      color: #fff;
+  }
+  .navbar-nav{
+      text-align: center;
+  }
+  .navbar-link{
+      padding: .2rem 1rem ;
+  }
+  .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+      color: #fff !important;
+  }
+  .w-100{
+      height: 100vh;
+  }
+  @media only screen and (max-width: 767px)
+  {
+      .navbar-nav.ml-auto{
+          background: rgba(0,0,0,0.5);
+      }
+      .navbar-toggler{
+          padding: 1px 5px;
+          font-size: 18px;
+          line-height: 0.3;
+          background: #fff;
+      }
+  }
+  
+  .dropdownmain{
+      padding-left: 12px;
+      background-color: #ffffff;
+      border-radius: 80px 80px 80px 80px;
+      border-style: solid;
+      border-width: 5px;
+      border-color: #f4a7bb;
+      opacity: 0.5;
+  }
+  .dropdownmain2:hover{
+      color:black;
+      background-color:#ffffff;
+      width: 5px;
+      opacity: 0.5;
+
+     
+  }
+  .dropdownmain2{
+      border-radius: 100px 100px 100px 100px;
+      color:black;
+  }
+  
+  
+  
+  
+  .u{
+      text-decoration: underline;
+    }
+
+    a:hover{
+      background-color:#f4a7bb;
+      color:#000000;
+      text-decoration: underline;
+      }
+      p{ 
+          font-family: 'Caveat Brush', cursive;
+          font-size: 20px;
+        
+        }
+        
+        a{
+          font-family: 'Caveat Brush', cursive;
+          text-decoration: none;
+          font-size: 25px;
+          color: black;
+          background-color: white;
+          border-radius: 3px;
+          border: 2px double black;
+        }
+        
+        
+        .members{
+          width: 250px;
+          height: 250px;
+          margin:10px;
+          display:inline-block;
+        }
+        
+h1{
+  font-family: 'Bungee Outline', cursive;
+  font-size: 60px;
+  text-shadow: 10px 10px 8px black;
+}
+
+h2{
+  font-family: 'Caveat Brush', cursive;
+  font-size: 25px;
+}
+#order{
+  display: inline-block;
+  font-family:'Caveat Brush', cursive; ;
+}        
+.txt{
+  font-size: 18px;
+}
+.container{
+  justify-content: space-between;
+  width: 1400px;
+  height: auto;
+}
+
+.song{
+  width:200px;
+  height:100px;
+  margin:20px;
+  display:inline-block;
+  border-radius:10px;
+  background-size:contain;
+  border:2px double black;
+}
+#boom{
+  background-image:url('https://www.bu.edu/lernet/artemis/years/2021/projects/StudentWebsites/EunjeePriyanka/boom.jpg');
+}
+
+#whistle{
+  background-image:url('https://www.bu.edu/lernet/artemis/years/2021/projects/StudentWebsites/EunjeePriyanka/whistle.jpeg');
+}
+
+#ktl{
+  background-image:url('https://www.bu.edu/lernet/artemis/years/2021/projects/StudentWebsites/EunjeePriyanka/ktl.jpg');
+}
+
+#hylt{
+  background-image:url('https://www.bu.edu/lernet/artemis/years/2021/projects/StudentWebsites/EunjeePriyanka/hylt.jpg');
+}
+#shd{
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDx3zGAvKEm4mbi9qQXe9QBprVOAXunkHYp6YPtC115Cwh6Kb13k7P_DccEyetT_pFx0w&usqp=CAU');
+}
+#pv{
+  background-image:url('https://6.viki.io/image/8af247dff0b944a2ac7ca6951dad695c/dummy.jpeg?s=900x600&e=t');
+} 
+#lsg{
+  background-image:url('https://www.allkpop.com/upload/2020/10/content/020138/1601617119-20201002-lovesick.jpg');
+}
+#tg{
+  background-image:url('https://www.allkpop.com/upload/2022/09/content/281353/1664387581-imagen.png');
+}
+#pf{
+  background-image:url('https://thebiaslistcom.files.wordpress.com/2016/10/blackpink-playing-with-fire.png');
+}
+#fey{
+  background-image:url('https://blackpinkupdate.com/wp-content/uploads/2018/07/edit-blackpink.jpg') ;
+}
+#stay{
+  background-image:url('https://i.pinimg.com/originals/2f/b6/15/2fb615befb4ad4916d49e5b945ed3572.jpg') ;
+}
+#img1{
+  background-image:url('https://wallpapercave.com/wp/wp6419072.jpg');
+}
+#img2{
+  background-image:url('https://pbs.twimg.com/media/EHEwIIsUwAAG192.jpg');
+}
+#img3{
+  background-image:url('https://wallpapercave.com/wp/wp11517570.jpg');
+}
+#img4{
+  background-image:url('https://i.pinimg.com/originals/3c/e4/c9/3ce4c9e80bb288c9f24081ed3a40c170.jpg');
+}
+#img5{
+  background-image:url('https://assets.teenvogue.com/photos/604250bcdab5de03525e07b1/16:9/w_2560%2Cc_limit/bp-adidas.jpg');
+}
+#img6{
+  background-image:url('https://images.wallpapersden.com/image/download/blackpink-love-2021_bGxrbGqUmZqaraWkpJRmaGtlrWxrbQ.jpg');
+}
+#img7{
+  background-image:url('https://wallpaperaccess.com/full/1099608.jpg');
+}
+#img8{
+  background-image:url('https://www.bu.edu/lernet/artemis/years/2021/projects/StudentWebsites/EunjeePriyanka/hylt.jpg');
+}
+#img9{
+  background-image:url('https://c4.wallpaperflare.com/wallpaper/694/371/802/music-blackpink-wallpaper-preview.jpg');
+}
+#img10{
+  background-image:url('https://rare-gallery.com/uploads/posts/587824-BlackPink.jpg');
+}
+#img11{
+  background-image:url('https://wallpaperboat.com/wp-content/uploads/2020/06/04/42521/blackpink-09.jpg');
+}
+#img12{
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPcx-qDipxXElOGUrfNQiX4I2VDttGZbVbdP9GZnbBB_LcO_m6LQHdTQNbkY9ZE3IkCN4&usqp=CAU');
+}
+
+.img{
+  width: 800px;
+  height: 400px;
+  margin: auto;
+  margin-bottom: 25px;
+  justify-content: center;
+  border-radius: 5px;
+  border: 2px double black;
+}
+.image{
+  width:300px;
+  height:200px;
+  margin:20px;
+  display:inline-block;
+  border-radius:10px;
+  background-size:contain;
+  border:2px double black;
+}

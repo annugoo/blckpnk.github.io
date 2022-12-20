@@ -1,0 +1,195 @@
+.main{
+    background-color: #f4a7bbba;
+    text-align: center;
+}
+.carousel-item{
+    height: 100%;
+    width: 100%;
+    background: no-repeat center center scroll;
+    background-size:cover;
+    background: cover;
+    }
+    .carousel-caption{
+        margin-bottom: 220px;
+        background-color: #000000;
+        color: #f4a7bb;
+        border-radius: 135px 135px 135px 135px;
+        border-style: solid;
+        border-width: 5px;
+        border-color: #f4a7bb;
+        opacity: 0.5;
+    }
+    .carousel-caption:hover{opacity: 1.0;}
+    .carousel-caption h5{
+        font-size: 45px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-top: 25px;
+        font-family: merienda;
+    }
+    .carousel-caption p{
+        width: 60% ;
+        margin: auto;
+        font-size: 18px;
+        line-height: 1.9;
+        font-family: poppins;
+    }
+    .carousel-caption a{
+        text-transform: uppercase;
+        background: #000000;
+        padding: 10px 30px;
+        display: inline-block;
+        color: #f4a7bb;
+        margin-top: 15px;
+
+    }
+    .carousel-caption a:hover{background-color: #f4a7bb;color: rgb(0, 0, 0);border-radius: 135px 135px 135px 135px;}
+    
+    .navbar-nav a{
+        font-family: poppins;
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .navbar-light .navbar-brand{
+        color: #fff;
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 2px;
+    }
+    .navbar-light .navbar-nav .active > .navbar-link, .navbar-light .navbar-nav .navbar-link.active, 
+    .navbar-light .navbar-nav .navbar-link.show, .navbar-light .navbar-nav.show > .navbar-link{
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .navbar-link{
+        color: #fff;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-link{
+        padding: .2rem 1rem ;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        color: #fff !important;
+    }
+    .w-100{
+        height: 100vh;
+    }
+    @media only screen and (max-width: 767px)
+    {
+        .navbar-nav.ml-auto{
+            background: rgba(0,0,0,0.5);
+        }
+        .navbar-toggler{
+            padding: 1px 5px;
+            font-size: 18px;
+            line-height: 0.3;
+            background: #fff;
+        }
+    }
+    
+    .dropdownmain{
+        padding-left: 12px;
+        background-color: #ffffff;
+        border-radius: 80px 80px 80px 80px;
+        border-style: solid;
+        border-width: 5px;
+        border-color: #f4a7bb;
+        opacity: 0.5;
+    }
+    .dropdownmain2:hover{
+        color:black;
+        background-color:#ffffff;
+        width: 5px;
+        opacity: 0.5;
+
+       
+    }
+    .dropdownmain2{
+        border-radius: 100px 100px 100px 100px;
+        color:black;
+    }
+    
+    
+    
+    
+    
+        p{
+            font-family: 'Caveat Brush', cursive;
+            font-size: 20px;
+          
+          }
+          
+        
+          
+          .members{
+            width: 250px;
+            height: 250px;
+            margin:10px;
+            display:inline-block;
+          }
+          
+h1{
+    font-family: 'Bungee Outline', cursive;
+    font-size: 60px;
+    text-shadow: 10px 10px 8px black;
+  }
+  
+  h2{
+    font-family: 'Caveat Brush', cursive;
+    font-size: 25px;
+  }
+  #order{
+    display: inline-block;
+  }        
+  .img{
+    width: 800px;
+    height: 450px;
+    margin: auto;
+    margin-bottom: 25px;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px double black;
+  }
+  
+ 
+  .image{
+    width:300px;
+    height:200px;
+    margin:20px;
+    display:inline-block;
+    border-radius:10px;
+    background-size:contain;
+    border:2px double black;
+  }
+  /* .song{
+    width:200px;
+    height:100px;
+    margin:20px;
+    display:inline-block;
+    border-radius:10px;
+    background-size:contain;
+    border:2px double black;
+  } */
+  /* #solo{
+    background-image:url('https://www.sbs.com.au/popasia/sites/sbs.com.au.popasia/files/jenniesolo2.png') ;
+    font-family: 'Caveat Brush', cursive;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    width:600px;
+    height:300px;
+    background-color: white;
+    border: 2px double black;
+    display:inline-block;
+    border-radius:10px;
+    background-size:contain; */
+  
+  tbl{
+    width: 300px;
+    color: #000;
+    font-family:'Caveat Brush', cursive; 
+    font-size: 12px;
+  }
